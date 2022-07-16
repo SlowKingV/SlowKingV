@@ -8,9 +8,9 @@
 
 ## About me
 - *I'm a Full-stack developer in the making!!*
-- *Currently learnign everything I can about JavaScript.*
-- *Language learning enthusiast! Currently learning Japanese and probably German in the future :crossed_fingers:*
-- *I also love videogames and music! So make sure to bring up the topic if you are as well 🎮*
+- *Currently, learning everything I can about JavaScript.*
+- *Language learning enthusiast! Trying to learn Japanese and probably German in the future 🤞*
+- *I also love video games and music! So make sure to bring up the topic if you do as well 🎮*
 
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
